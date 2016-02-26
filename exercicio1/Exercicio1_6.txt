@@ -1,0 +1,1 @@
+O exercício 3 apresenta apenas valores inteiros e o 4 e 5 apresentam os valores com casa decimais.
