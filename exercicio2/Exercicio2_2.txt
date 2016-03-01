@@ -1,0 +1,4 @@
+Qual é o propósito da palavra-chave new? Explique o que acontece quando essa
+palavra-chave é utilizada em um aplicativo.
+
+Resposta: O propósito é intanciar um objeto, ou seja reservar um espaço seja em uma variavel ou na memória. Quando a palavra new é utilizada o construtor da classe da instacia é chamado.

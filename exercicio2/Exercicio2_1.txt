@@ -1,0 +1,7 @@
+Tipo Abstrato de Dados: É o conjunto de dados e operações que podem ser execudadas sobre esses dados.
+
+Classe: Representa uma entidade que define seus métodos, e suas propriedades. Um tipo abstrato de dados.
+
+Objeto: É a instancia de uma classe, ou seja materialização da classe.
+
+Mensagens: É a chamada de um objeto para invocar um dos seus métosos, ativando um comportamento descrito por sua classe.
