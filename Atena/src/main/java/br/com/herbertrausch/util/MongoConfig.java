@@ -17,8 +17,8 @@ public class MongoConfig {
 	public @Bean
 	MongoDbFactory mongoDbFactory() throws Exception {
 
-		MongoClient mongo = new MongoClient(new MongoClientURI("mongodb://professorhub-dev:p3t3c4d0@ds061777.mlab.com:61777/professorhub"));
-		SimpleMongoDbFactory simpleMongoDbFactory = new SimpleMongoDbFactory(mongo, "professorhub");
+		MongoClient mongo = new MongoClient(new MongoClientURI(" mongodb://grupodamorte:galinha007@ds015403.mlab.com:15403/athenateste"));
+		SimpleMongoDbFactory simpleMongoDbFactory = new SimpleMongoDbFactory(mongo, "athenateste");
 		return simpleMongoDbFactory;
 
 	}
